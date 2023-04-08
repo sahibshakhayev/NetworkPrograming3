@@ -1,0 +1,15 @@
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\bin\Debug\net6.0\HTTP_Clone_Client.exe
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\bin\Debug\net6.0\HTTP_Clone_Client.deps.json
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\bin\Debug\net6.0\HTTP_Clone_Client.runtimeconfig.json
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\bin\Debug\net6.0\HTTP_Clone_Client.dll
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\bin\Debug\net6.0\HTTP_Clone_Client.pdb
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.csproj.AssemblyReference.cache
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.AssemblyInfoInputs.cache
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.AssemblyInfo.cs
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.csproj.CoreCompileInputs.cache
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.dll
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\refint\HTTP_Clone_Client.dll
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.pdb
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\HTTP_Clone_Client.genruntimeconfig.cache
+D:\Projects\STEP IT\Network Programing\HTTP_Clone\HTTP_Clone_Client\obj\Debug\net6.0\ref\HTTP_Clone_Client.dll
